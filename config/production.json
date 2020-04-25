@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://jhortale:awe12zsd@devconnector-nqwxi.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "myTokenSecret",
+    "githubClientId": "0d8d9aac0d6c568c17f9",
+    "githubSecret": "d9594ee127a475fa4c7c53697b6764a56cd1c4ad"
+}
